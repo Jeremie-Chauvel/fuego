@@ -58,7 +58,6 @@ const config: Config = {
   ],
 
   themes: ["@docusaurus/theme-mermaid"],
-  plugins: ["docusaurus-lunr-search"],
 
   themeConfig: {
     // Replace with your project's social card
